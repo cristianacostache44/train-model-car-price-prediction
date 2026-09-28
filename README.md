@@ -50,7 +50,7 @@ car-price-prediction/
 
 ---
 
-## 🚀 Cum rulezi proiectul
+## Cum rulezi proiectul
 
 ### 1. Instalare
 ```bash
@@ -89,7 +89,7 @@ Ambele notebook-uri sunt salvate cu rezultatele, deci pot fi citite direct pe Gi
 
 ---
 
-## 🔍 Ce am descoperit și ce am decis
+## Ce am descoperit și ce am decis
 
 ### Curățarea datelor (`data_cleaning.py`)
 | Problemă | Decizie |
